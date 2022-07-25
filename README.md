@@ -42,7 +42,7 @@ Mis principales cualidades son el **RESPETO** por las ideas de terceros, el ser 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
 </p>
-## 💻  &nbsp;&nbsp;Otras Tecnologias que conozco: [🔝](#welcome-badges-4-readmemd-profile)
+## 💻 &nbsp;&nbsp;Otras Tecnologias que conozco: [🔝]
 <p align="center">
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />&nbsp;&nbsp;
@@ -78,19 +78,11 @@ Mis principales cualidades son el **RESPETO** por las ideas de terceros, el ser 
 
 </p>
 
-## ⚒️ &nbsp;&nbsp;My projects:
+## ⚒️ &nbsp;&nbsp;Trabajo Actualmente:
 
-- [Quizz](https://github.com/alexcamachogz/quizz-multioption)
-
-Quizz is an app that let you response some pre loaded questions and know if your answer is correct or not. You will be able to study using this app to prepare for your exams.
-
-- [Egg Timer](https://github.com/alexcamachogz/EggTimer)
-
-Egg Timer track the time to boil your eggs to perfection, depending on how you prefer your yolks.
-
-- [Who is that pokemon?](https://pokemon.alexcamachogz.tech)
-
-This project is a pokemon game. You should guess which pokemon is it in every round. You can see the project here
+- [Universidad de Manizales](https://umanizales.edu.co/)
+- [Grupotec](https://www.linkedin.com/company/grupotec-sas/)
+- [Motosmart](https://motosmart.co/nosotros/)
 
 ## 🌎 &nbsp;&nbsp;Encuentrame en las siguientes redes sociales:
 
