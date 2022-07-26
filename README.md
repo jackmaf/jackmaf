@@ -80,7 +80,7 @@ Mis principales cualidades son el **RESPETO** por las ideas de terceros, el ser 
 
 ## ⚒️ &nbsp;&nbsp;Trabajo Actualmente:
 
-<a href="https://umanizales.edu.co/"><img src="https://github.com/jackmaf/jackmaf/blob/master/Imagenes/universidad_manizales.jpeg" /></a>
+<a href="https://umanizales.edu.co/"><img src="https://github.com/jackmaf/jackmaf/blob/master/Imagenes/universidad_manizales.png" /></a>
 <a href="https://www.linkedin.com/company/grupotec-sas/"><img src="https://github.com/jackmaf/jackmaf/blob/master/Imagenes/grupotec.jpeg" /></a>
 <a href="https://motosmart.co/nosotros/"><img src="https://github.com/jackmaf/jackmaf/blob/master/Imagenes/motosmart.png" /></a>
 
